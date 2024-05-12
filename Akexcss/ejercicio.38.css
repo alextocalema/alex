@@ -1,0 +1,25 @@
+/*MOstrar el texto*/
+*{
+    font-family: Arial;
+}
+body{
+    width: 507px;
+    height: 470px;
+    border-style: dotted;
+    border-width: 2px;
+}
+pre{
+    display: inline-block;
+}
+
+#c{
+    font: bold 30px Verdana;
+    color: green;
+}
+
+
+#caja3{
+    border-color: green;
+    float: left;
+    overflow: scroll;
+}
